@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xorenir
+- 👋 Hi, I’m Saeid Hasaninejad (@xorenir)
 - 👀 I’m interested in Web Development and Programming
 - 🌱 I’m currently learning Git & Design Pattern
 - 💞️ I’m looking to collaborate on Open Source Projects..
