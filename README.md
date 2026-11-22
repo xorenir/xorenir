@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saeid Hasaninejad (@xorenir)
-- 👀 I’m interested in Web Development and Programming
-- 🌱 I’m currently learning Git & Design Pattern
-- 💞️ I’m looking to collaborate on Open Source Projects..
+- 👀 I’m interested in Web/Game/App Development
+- 🌱 I’m currently learning Godot Engine & Flutter
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me : xoren.ir@gmail.com
 - 🤍 Be care 🙂
 
